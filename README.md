@@ -4,13 +4,13 @@ After careful consideration, I decided to choose The Scream as my final project,
 
 ## Inspriation ##
 
-### 1. The first technique. ###
+### 1. The first inspiration. ###
 
 The first inspiration I got is from *Starry Night*(pvrellis). The author changed the originally static starry sky into a dynamic effect, making the whole picture vivid. Thus, using the same technique to make the sky in The Scream vivid might be a good idea.
 
 ![An images of inspiration](assets/1.png)
 
-### 2. The Second technique. ###
+### 2. The Second inspiration. ###
 
 The second inspiration is from a movie I watched recently which name is  *Orion and the Dark*. When the Dark runs away, he carries the boy with a smog trail. Then I struck upon the idea that this smog trail could be used on the person screaming in The Scream.
 
