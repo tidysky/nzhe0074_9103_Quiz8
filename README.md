@@ -32,7 +32,7 @@ To achieve the first effect, I found this code on OpenProcessing which is used t
 To achieve the second effect, I found a similar effect form P5.js which might be helpful.
 
 ![An images of floating ghost](assets/4.png)
->*[Click Me](https://happycoding.io/tutorials/p5js/animation/ghost) to check the coding of how to realize floating sky.*
+>*[Click Me](https://happycoding.io/tutorials/p5js/animation/ghost) to check the coding of how to realize floating ghost.*
 
 
 
