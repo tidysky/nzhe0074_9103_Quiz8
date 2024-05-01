@@ -1,6 +1,6 @@
 # nzhe0074_9103_Week8
 
-After careful consideration, I decided to choose The Scream as my final project, because it is an amazing masterpiece and the techniques required to dynamize the picture seem quite challenging.
+After careful consideration, I decided to choose The Scream as my final project, because it is an amazing masterpiece and techniques required to dynamize the picture seem quite challenging.
 
 ## Inspriation ##
 
